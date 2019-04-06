@@ -3,7 +3,7 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Introducción
 
 ```yaml
 type: NormalExercise
@@ -13,27 +13,27 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+La estadística permite que......
 
 `@instructions`
-
+# esta prueba
 
 `@hint`
-
+[prueba]()
 
 `@pre_exercise_code`
 ```{r}
-
+a=10
 ```
 
 `@sample_code`
 ```{r}
-
+a=15
 ```
 
 `@solution`
 ```{r}
-
+a=20
 ```
 
 `@sct`
