@@ -40,3 +40,31 @@ a=20
 ```{r}
 
 ```
+
+---
+
+## kkkk
+
+```yaml
+type: MultipleChoiceExercise
+key: 0a92db9ab5
+xp: 50
+```
+
+
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
